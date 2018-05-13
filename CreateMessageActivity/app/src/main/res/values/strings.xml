@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">CreateMessageActivity</string>
-    <string name="name">Name</string>
-    <string name="send">Send</string>
-    <string name="result">Result</string>
-    <string name="secondScreen">Output</string>
-</resources>

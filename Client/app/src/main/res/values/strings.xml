@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">ChatUI</string>
-    <string name="hint">Write a message</string>
-    <string name="send">SEND</string>
-    <string name="username">08d70fc5-637c-44fa-8b1b-6c32051830ed</string>
-    <string name="password">YwXn0EHVUojd</string>
-    <string name="workspace">d157751b-da39-405f-a405-2055c363fc96</string>
-    <string name="enter_message">Enter message</string>
-</resources>
