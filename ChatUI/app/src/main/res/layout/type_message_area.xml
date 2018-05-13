@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:gravity="bottom"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/speakButton"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/ic_btn_speak_now"/>
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textColorHint="#CFD8DC"
+        android:textColor="#CFD8DC"
+        android:layout_weight="1"
+        android:hint="@string/hint"
+        android:inputType="text" />
+
+    <Button
+        android:id="@+id/buttonImageView"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:padding="4dp"
+        android:onClick="onButtonClick"
+        android:background="@android:drawable/ic_menu_send"
+         />
+</LinearLayout>

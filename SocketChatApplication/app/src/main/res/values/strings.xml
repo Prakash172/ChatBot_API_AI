@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SocketChatApplication</string>
+    <string name="message">type message</string>
+</resources>
